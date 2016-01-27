@@ -1,28 +1,18 @@
-name: peterheidorn
-favicon: null
-layout_spectrum: 0.8030905814375728
-typography_spectrum: 0.8258745912462473
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.2861023177392781
-  lightness: 0.17751424829475582
-  saturation: 0.6376638007350266
-  rhythmicContrast: 0.8194672756362706
+    - '#D8D0B8'
+    - '#5C4929'
+    - '#C0A878'
+    - '#B89860'
+    - '#F8F0E0'
+  brandStrength: 0.173986
+  lightness: 0.177514
+  rhythmicContrast: 0.819467
+  saturation: 0.637663
+cta: {}
+layout_spectrum: 0.932432
+name: peterheidorn
+opengraph: {}
 purpose: []
+typography_spectrum: 0.844594
