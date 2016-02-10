@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[peterheidorn]]></title>
         <description><![CDATA[peterheidorn]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/peterheidorn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 00:13:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 16:54:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/peterheidorn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello</p>]]></description>
+            <link>https://thegrid.ai/peterheidorn/9cac8818-ce5f-440c-81cb-c8e7c9c58c0f/index.html</link>
+            <guid isPermaLink="false">9cac8818-ce5f-440c-81cb-c8e7c9c58c0f</guid>
+            <pubDate>Wed, 10 Feb 2016 16:53:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/776ae6e8-e2d3-4960-b36e-8c6ec9ed7f7d.jpg">]]></description>
-            <link>undefined4179dfcd-84f3-4963-8a96-28f26b9bb083/index.html</link>
+            <link>https://thegrid.ai/peterheidorn/4179dfcd-84f3-4963-8a96-28f26b9bb083/index.html</link>
             <guid isPermaLink="false">4179dfcd-84f3-4963-8a96-28f26b9bb083</guid>
             <pubDate>Thu, 28 Jan 2016 00:10:23 GMT</pubDate>
         </item>
