@@ -1,4 +1,4 @@
-name: peterheidorn
+name: Black Bear Marketing
 favicon: null
 layout_spectrum: 0.932432
 typography_spectrum: 0.844594
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#D8D0B8'
-    - '#5C4929'
-    - '#C0A878'
-    - '#B89860'
-    - '#F8F0E0'
-  brandStrength: 0.173986
-  lightness: 0.177514
-  saturation: 0.637663
-  rhythmicContrast: 0.819467
+    - '#67abfe'
+    - '#a20000'
+    - '#1f1027'
+    - '#ffffff'
+    - '#efb85e'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
