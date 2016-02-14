@@ -1,4 +1,20 @@
-analytics: {}
+name: peterheidorn
+favicon: null
+layout_spectrum: 0.932432
+typography_spectrum: 0.844594
+title: Black Bear Marketing
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#D8D0B8'
@@ -8,11 +24,6 @@ color:
     - '#F8F0E0'
   brandStrength: 0.173986
   lightness: 0.177514
-  rhythmicContrast: 0.819467
   saturation: 0.637663
-cta: {}
-layout_spectrum: 0.932432
-name: peterheidorn
-opengraph: {}
+  rhythmicContrast: 0.819467
 purpose: []
-typography_spectrum: 0.844594
