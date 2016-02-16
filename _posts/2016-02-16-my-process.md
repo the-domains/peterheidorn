@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T02:28:49.470Z'
-dateModified: '2016-02-16T02:28:46.603Z'
+datePublished: '2016-02-16T02:58:16.674Z'
+dateModified: '2016-02-16T02:58:08.377Z'
+title: MY PROCESS
+author: []
+sourcePath: _posts/2016-02-16-my-process.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: MY PROCESS
-author: []
-sourcePath: _posts/2016-02-16-my-process.md
-published: true
 url: my-process/index.html
 _type: Article
 
@@ -42,4 +42,4 @@ Here is an overview of how I approach each new project or event.
 * I'll ask you questions
 * You'll ask me questions
 * We'll bounce ideas off each other
-* We'll become friends & collaborate on big ideas.
+* We'll become friends & collaborate on big ideas
